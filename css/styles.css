@@ -1,0 +1,141 @@
+
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Markazi Text', cursive;
+}
+
+hr{
+  border:dotted ;
+  border-bottom: none;
+  color: grey;
+  width: 4%;
+  border-width: 10px;
+  margin: 100px auto;
+  text-align: center;
+}
+
+h1{
+  color: #63b7af;
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 85px;
+  padding-top: 80px;
+}
+h2{
+  color: #63b7af;
+  font-family: 'Bangers', cursive;
+  font-size: 50px;
+  font-weight: normal;
+  text-align: center;
+}
+h3{
+  color: #ee8572;
+  font-family: 'Pangolin', cursive;
+  font-size: 30px;
+  font-weight: lighter;
+  font-style: oblique;
+}
+p{
+  color: #40514E;
+  font-size: 1.6rem;
+  font-weight: lighter;
+  line-height: 1.5;
+  width:50%;
+  margin:30px auto;
+}
+.top-container{
+  background-color: #c3edea;
+  padding-top: 100px;
+  position: relative;
+}
+.skills{
+  width: 80%;
+  margin:0 auto;
+  text-align: left;
+}
+.python{
+margin-left: 250px;
+}
+.p{
+  font-size: 30px;
+  margin: auto;
+  text-align: center;
+}
+.bottom-container{
+  font-size: 30px;
+  background-color:#c3edea;
+  margin-top: 60px;
+  padding: 30px;
+}
+.footer-link{
+  color: #58b4ae;
+  display: inline-block;
+  text-decoration: none;
+  width: 100px;
+}
+.footer-link:hover{
+  color:#eaf6f6;
+}
+.copyright{
+  color: #faf2f2;
+}
+.top-cloud{
+  position: absolute;
+  top : 50px;
+  right: 300px;
+}
+.bottom-cloud{
+  position: absolute;
+  left:150px;
+}
+.profile-img{
+  height: 200px;
+  margin-top: 70px;
+}
+.web-d-img{
+    height: 200px;
+    float: left;
+    margin-right: 30px;
+}
+.python-img{
+    height: 200px;
+    float: right;
+    margin-left: 30px;
+}
+.handshake-img{
+    height: 200px;
+}
+.btn {
+	background-color:#66BFBF;
+	-webkit-border-top-left-radius:12px;
+	-moz-border-radius-topleft:12px;
+	border-top-left-radius:12px;
+	-webkit-border-top-right-radius:12px;
+	-moz-border-radius-topright:12px;
+	border-top-right-radius:12px;
+	-webkit-border-bottom-right-radius:12px;
+	-moz-border-radius-bottomright:12px;
+	border-bottom-right-radius:12px;
+	-webkit-border-bottom-left-radius:12px;
+	-moz-border-radius-bottomleft:12px;
+	border-bottom-left-radius:12px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	font-weight:normal;
+	font-style:normal;
+height:54px;
+	line-height:54px;
+width:135px;
+	text-decoration:none;
+	text-align:center;
+}.btn:hover {
+	background-color:#5cbf2a;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
